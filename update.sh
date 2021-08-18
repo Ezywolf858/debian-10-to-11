@@ -38,5 +38,5 @@ echo "updateing yous repos pls enter your pass"
 
 sudo apt update
   sudo apt full-upgrade -y
-
+sudo reboot
 exit
